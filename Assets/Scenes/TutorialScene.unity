@@ -122,7 +122,6 @@ GameObject:
   m_Component:
   - component: {fileID: 11748163}
   - component: {fileID: 11748162}
-  - component: {fileID: 11748165}
   - component: {fileID: 11748164}
   m_Layer: 0
   m_Name: New Sprite
@@ -196,23 +195,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 11748161}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 960c1af06467ce84798cc39f593a25b8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  name: Chuck
-  weapon: Wooden Pickaxe
-  health: 10
-  speed: 7.6
-  enemyDamage: 2
---- !u!114 &11748165
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 11748161}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 242becf6b4d83484f996344307ad7faa, type: 3}
+  m_Script: {fileID: 11500000, guid: abd6eca073d003047b617f8f0826b1f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &519420028
